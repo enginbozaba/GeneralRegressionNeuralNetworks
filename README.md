@@ -11,6 +11,10 @@ genel yapısı Şekil 1’de verilmiştir.
 
 ![Ağ yapısı](https://github.com/enginbozaba/GeneralRegressionNeuralNetworks/blob/master/grnn.JPG)
 
+![Ağ yapısı](https://github.com/enginbozaba/GeneralRegressionNeuralNetworks/blob/develop/algoritma-grnn.jpg)
+
+
+
 <p/>
 İlk katman olan giriş katmanında, nöron sayısı verilerin
 özelliklerinin sayısına, bir başka deyişle verinin boyutuna
@@ -27,6 +31,11 @@ değeri çarpılır ve bu çarpım değerlerinin toplamı, pay
 nöronunun çıkış değeri olarak kabul edilir. Son olarak, çıkış
 katmanında pay nöronundan gelen değer, payda nöronundan
 gelen değere bölünerek ve sonuç değeri elde edilir.[1]
+
+
+
+![Ağ yapısı](https://github.com/enginbozaba/GeneralRegressionNeuralNetworks/blob/develop/grnn_ornek.png)
+
 
 [1] Specht DF, Shapiro PD. “Generalization accuracy of
 probabilistic neural networks compared with
