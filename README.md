@@ -34,6 +34,10 @@ backpropagation networks”. IJCNN-91-Seattle
 International Joint Conference on Neural Networks,
 Seattle, WA, USA, 08-12 July 1991.
 
+[2] https://www.journalagent.com/pajes/pdfs/PAJES_24_5_857_863.pdf
+
+[3] https://easyneuralnetwork.blogspot.com/2013/07/grnn-generalized-regression-neural.html
+
 
 General Regression Neural Networks are a forward-feed ANN model consisting of four layers.
 * 
